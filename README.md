@@ -41,4 +41,4 @@ The goal of this project is to demonstrate a decoupled, scalable, and reliable w
     * Ensure the Lambda IAM Role has permissions to read from SQS and write to the Target S3 bucket.
 5.  **Test:** Upload `stock_pricing.csv` to the source bucket and check the target bucket for the output.
 
----
+----
